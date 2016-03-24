@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#rm -rf ~/code/hexo_blog/public
+#rm -rf ~/code/hexo_blog/.deploy
+hexo generate
+hexo deploy
